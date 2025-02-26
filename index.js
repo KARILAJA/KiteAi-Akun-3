@@ -5,7 +5,7 @@ import ora from 'ora';
 import fs from 'fs';
 
 async function main(numberOfInteractions) {
-  cfonts.say('NT Exhaust', {
+  cfonts.say('KARIL NAD', {
     font: 'block',
     align: 'center',
     colors: ['cyan', 'magenta'],
