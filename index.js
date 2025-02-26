@@ -31,7 +31,7 @@ async function main(numberOfInteractions) {
   await main(numberOfInteractions); // Restart the process after 24 hours
 }
 
-const walletAddress = "0xe01673c4dfbeccc6e545a4bf36e35977e8d51db6";
+const walletAddress = "0xea518e839db2a74b092f3979302c2988cea02a63";
 const postUrl = 'https://quests-usage-dev.prod.zettablock.com/api/report_usage';
 
 function loadInteractionsFromFile(filePath) {
